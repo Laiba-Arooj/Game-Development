@@ -692,3 +692,12 @@ System memory in use after: 87.8 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2310.
 Total: 26.379600 ms (FindLiveObjects: 0.298900 ms CreateObjectMapping: 0.137800 ms MarkObjects: 3.664200 ms  DeleteObjects: 22.276300 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 4515.705195 seconds.
+  path: Assets/Animations/HeroPlayer.controller
+  artifactKey: Guid(a9565e152d4ae9240855f437264e7901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/HeroPlayer.controller using Guid(a9565e152d4ae9240855f437264e7901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907db81455e5b6be4d82ebb254fba143') in 3.470553 seconds
+  Import took 3.976976 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
