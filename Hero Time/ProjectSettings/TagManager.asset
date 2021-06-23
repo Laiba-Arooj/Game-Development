@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coins
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,7 @@ TagManager:
     locked: 0
   - name: New Layer
     uniqueID: 2355778087
+    locked: 0
+  - name: Layer1
+    uniqueID: 1887276047
     locked: 0
